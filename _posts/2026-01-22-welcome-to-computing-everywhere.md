@@ -8,10 +8,6 @@ tags:
   - update
 ---
 
-
-
-<h1>something here</h1>
-
 Welcome to the Show and Tell workshop at Computing Everywhere 2026! We're so excited you are here
 
 This template uses the [minimal mistakes](https://mmistakes.github.io/minimal-mistakes/) theme. It is a well-maintained theme with a lot of customization options. [Here](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/) is the full set of documentation for the theme. We've also pulled out some specific pages that you might find useful.
